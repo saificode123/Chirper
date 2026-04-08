@@ -16,7 +16,7 @@
                         <label class="floating-label mb-6">
                             <input type="text"
                                    name="name"
-                                   placeholder="John Doe"
+                                   placeholder="saif ur rehman"
                                    value="{{ old('name') }}"
                                    class="input input-bordered @error('name') input-error @enderror"
                                    required>
@@ -32,7 +32,7 @@
                         <label class="floating-label mb-6">
                             <input type="email"
                                    name="email"
-                                   placeholder="[mail@example.com](<mailto:mail@example.com>)"
+                                   placeholder="saifi11@gmail.com"
                                    value="{{ old('email') }}"
                                    class="input input-bordered @error('email') input-error @enderror"
                                    required>
